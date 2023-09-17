@@ -6,7 +6,7 @@
         I am a <b>Web Developer</b> 🚀 from <b>Paraná, Brasil</b>
         </p>
     <div>
-        <a href="www.linkedin.com/in/marcos-vinicius-dos-santos-rodrigues-1a2b39195" target="_blank"><img alt="LinkedIn"
+        <a href="https://www.linkedin.com/in/marcos-vinicius-dos-santos-rodrigues-1a2b39195/" target="_blank"><img alt="LinkedIn"
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="mailto:mvsrodri00@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
