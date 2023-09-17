@@ -23,6 +23,7 @@
             About me</h2>
         <ul>
             <li> 👨🏻‍💻 I'm currently working at Agência Contato</li>
+            <li> 🎓 Student Software Engineer at Federal Technological University Paraná</li>
             <li> 🎓 I'm currently learning Docker <img align="center"
                     src="![docker](https://github.com/Mvsrodri/Mvsrodri/assets/38968106/2e3526ed-6197-421c-91c8-d06a105dc289)"
                     width="16" /></li>
@@ -71,6 +72,8 @@
     </div>
 
 </div>
+<br/>
+<br/>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Mvsrodri&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +"
         width="130" /><br />
