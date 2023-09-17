@@ -26,7 +26,7 @@
             <li> 🎓 I'm currently learning Docker <img align="center"
                     src="![docker](https://github.com/Mvsrodri/Mvsrodri/assets/38968106/2e3526ed-6197-421c-91c8-d06a105dc289)"
                     width="16" /></li>
-            <li>📫 How to reach me: <a href="www.linkedin.com/in/marcos-vinicius-dos-santos-rodrigues-1a2b39195" target="_blank">Linkedin</a></li>
+            <li>📫 How to reach me: <a href="https://www.linkedin.com/in/marcos-vinicius-dos-santos-rodrigues-1a2b39195/" target="_blank">Linkedin</a></li>
         </ul>
     </div>
     <div>
